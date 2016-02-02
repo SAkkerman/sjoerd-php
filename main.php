@@ -8,6 +8,7 @@
 $color=array("red","green","yellow","blue");
     foreach($color as $value){
     echo "$value<br>";
+    echo "test";
 }
 ?>   
     </body>
