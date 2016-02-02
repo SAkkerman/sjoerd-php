@@ -5,11 +5,8 @@
     </head>
     <body style="background-color:#85e0e0;">
      <?php 
-$color=array("red","green","yellow","blue");
-    foreach($color as $value){
-    echo "$value<br>";
-    echo "test";
-}
-?>   
+        echo "<h1>hellow world!</h1>";
+ 
+    ?>   
     </body>
 </html>
